@@ -6,6 +6,7 @@ I am Rusydy Muhiddin, a software engineer who is passionate about technology and
 
 [![Linkedin Badge](https://img.shields.io/badge/-rusydy_muhiddin-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rusydy-muhiddin/)](https://www.linkedin.com/in/rusydy-muhiddin/)
 [![Gmail Badge](https://img.shields.io/badge/-rusydymuhiddin@gmail.com-dd4b39?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rusydymuhiddin@gmail.com)](mailto:rusydymuhiddin@gmail.com)
+[![My Resume](https://img.shields.io/badge/my_resume-18181B?style=flat-square&logo=github&logoColor=white)](https://github.com/Rusydy/Rusydy/blob/main/About/resume.md)
 
 ## ⚡ Languages
 
