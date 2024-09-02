@@ -43,3 +43,5 @@ I am Rusydy Muhiddin, a software engineer who is passionate about technology and
 ![Docker](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Docker&logo=docker)
 ![GitHub](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=GitHub&logo=github)
 ![Gitlab](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Gitlab&logo=gitlab)
+![Postman](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Postman&logo=Postman)
+![Linux](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Linux&logo=linux)
