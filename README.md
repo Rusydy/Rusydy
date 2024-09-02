@@ -27,6 +27,8 @@ I am Rusydy Muhiddin, a software engineer who is passionate about technology and
 ![Nuxt JS](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Nuxt+JS&logo=nuxt.js)
 ![Laravel](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Laravel&logo=laravel)
 ![Jetpack Compose](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Jetpack+Compose&logo=android)
+![Ruby on Rails](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Ruby+on+Rails&logo=ruby-on-rails)
+![Fluter](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Flutter&logo=flutter)
 
 ## 📚 Database
 
