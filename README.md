@@ -17,6 +17,7 @@ I am Rusydy Muhiddin, a software engineer who is passionate about technology and
 ![Python](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Python&logo=python)
 ![Ruby](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Ruby&logo=ruby)
 ![Kotlin](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Kotlin&logo=kotlin)
+![Dart](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Dart&logo=dart)
 ![HTML5](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=HTML5&logo=html5)
 ![CSS3](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=CSS3&logo=css3)
 
