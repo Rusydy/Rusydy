@@ -5,6 +5,7 @@
 - Full Name: **Rusydy Muhiddin**
 - Address: **Jakarta, Indonesia**
 - Email address: **<rusydymuhiddin@gmail.com>**
+- Personal website: **[Rusydy Website](https://rusydy.github.io)**
 
 > Summary
 
@@ -18,9 +19,15 @@ I'm a versatile software engineer with experience in full-stack development, usi
 - Databases: PostgreSQL, Redis, MongoDB
 - Testing: Postman, Go-Mock, SQL-Mock, Go-Test, Selenium, Apache JMeter
 
+> Education
+
+- Bachelor of Engineering, STMIK Jakarta, 2025
+
 > Work Experience
 
-- **Software Engineer** | 07/2024 - Present | **[PT Mid Solusi Nusantara - Mekari](https://mekari.com/)** | Central Jakarta, Greater Jakarta
+- **Software Engineer** | 06/2024 - Present | **[PT Mid Solusi Nusantara - Mekari](https://mekari.com/)** | Central Jakarta, Greater Jakarta
+  - Contributed to creating CS Ticket Documentation using Confluence and Jira for Mekari's customer services and developers team.
+  - Contributed to maintaining and enhancing Mekari's accounting software (Jurnal) using Ruby on Rails, MySQL, and Redis.
 
 - **Freelance Software Engineer** | 01/2022 - Present | **Self-Employed** | South Jakarta, Greater Jakarta
   - Contributed to creating APIs and databases for KPI applications using Laravel and PostgreSQL for SPI-Jasa Raharja and PT. Heksa Digital Mitra Informasi.
@@ -77,10 +84,6 @@ I'm a versatile software engineer with experience in full-stack development, usi
   - Designed and delivered effective lessons to various classes of students, ranging from General English to IELTS General Training.
   - Implemented regular mock tests and exercises to improve students' grammar and speaking skills, and provided constructive feedback to help them reach their goals.
   - Prepared lesson plans tailored to the needs and abilities of each class, and incorporated various teaching methods and materials to enhance student engagement and learning outcomes.
-
-> Education
-
-- Bachelor of Engineering, STMIK Jakarta, 2025
 
 > Certifications
 
