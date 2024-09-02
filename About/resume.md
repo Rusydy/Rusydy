@@ -39,7 +39,7 @@ I'm a versatile software engineer with experience in full-stack development, usi
   - Created system architecture and database design for new services using diagrams written in python and mermaid.js for PT. Hino Motors Sales Indonesia (HMSI)
   - Contributor to [scrcpy-plus](https://github.com/Frontesque/scrcpy-plus), an open-source project for remotely controlling Android devices
 
-- **Software Engineer** | 04/2022 - 07/2024 | **[PT Sejahtera Lunaria Annua - Koinworks](https://koinworks.com/)** | South Jakarta, Greater Jakarta
+- **Software Engineer** | 04/2022 - 06/2024 | **[PT Sejahtera Lunaria Annua - Koinworks](https://koinworks.com/)** | South Jakarta, Greater Jakarta
   - Trained new employees on Koinworks' architecture, wiki, technical documentation, and in-house developed frameworks.
   - Led a team of five to create the CS-Ticket Documentation, which included case categorisation, methods, tools, and case studies.
   - Created mock procedures using go-mock, SQL-mock, and go-test on KoinBPR (Koinworks' Conventional Bank) and KoinNeo (Koinworks' Digital Bank).
