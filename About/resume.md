@@ -27,7 +27,7 @@ I'm a versatile software engineer with experience in full-stack development, usi
 
 - **Software Engineer** | 06/2024 - Present | **[PT Mid Solusi Nusantara - Mekari](https://mekari.com/)** | Central Jakarta, Greater Jakarta
   - Contributed to creating CS Ticket Documentation using Confluence and Jira for Mekari's customer services and developers team.
-  - Contributed to maintaining and enhancing Mekari's accounting software (Jurnal) using Ruby on Rails, MySQL, and Redis.
+  - Contributed to maintaining and enhancing Mekari's accounting software (Jurnal) using Ruby on Rails, Go, Kafka, MySQL, and Redis.
 
 - **Freelance Software Engineer** | 01/2022 - Present | **Self-Employed** | South Jakarta, Greater Jakarta
   - Contributed to creating APIs and databases for KPI applications using Laravel and PostgreSQL for SPI-Jasa Raharja and PT. Heksa Digital Mitra Informasi.
@@ -38,6 +38,7 @@ I'm a versatile software engineer with experience in full-stack development, usi
   - Created and maintained a KIOSK application using Kotlin for DPR RI (House of Representatives of the Indonesian Republic).
   - Created system architecture and database design for new services using diagrams written in python and mermaid.js for PT. Hino Motors Sales Indonesia (HMSI)
   - Contributor to [scrcpy-plus](https://github.com/Frontesque/scrcpy-plus), an open-source project for remotely controlling Android devices
+  - Created a Task Management System using Laravel and Vue.js for admin site and Kotlin and Jetpack Compose for user mobile app
 
 - **Software Engineer** | 04/2022 - 06/2024 | **[PT Sejahtera Lunaria Annua - Koinworks](https://koinworks.com/)** | South Jakarta, Greater Jakarta
   - Trained new employees on Koinworks' architecture, wiki, technical documentation, and in-house developed frameworks.
