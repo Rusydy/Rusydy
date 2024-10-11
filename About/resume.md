@@ -26,8 +26,10 @@ I'm a versatile software engineer with experience in full-stack development, usi
 > Work Experience
 
 - **Software Engineer** | 06/2024 - Present | **[PT Mid Solusi Nusantara - Mekari](https://mekari.com/)** | Central Jakarta, Greater Jakarta
-  - Contributed to creating CS Ticket Documentation using Confluence and Jira for Mekari's customer services and developers team.
-  - Contributed to maintaining and enhancing Mekari's accounting software (Jurnal) using Ruby on Rails, Go, Kafka, MySQL, and Redis.
+  - Provide detailed CS Ticket Documentation using Confluence and Jira, streamlining communication between Mekari's customer service and development teams.
+  - Enhanced and maintained the full-stack repository for Mekari's accounting software (Jurnal) with Ruby on Rails, Kafka, MySQL, and Redis.
+  - Improved and managed the microservices repository for Mekari's accounting software (Jurnal) using Go, Kafka, MySQL, and Redis.
+  - Upgraded and maintained the frontend repository for Mekari's accounting software (Jurnal) with Vue.js and TypeScript.
 
 - **Freelance Software Engineer** | 01/2022 - Present | **Self-Employed** | South Jakarta, Greater Jakarta
   - Contributed to creating APIs and databases for KPI applications using Laravel and PostgreSQL for SPI-Jasa Raharja and PT. Heksa Digital Mitra Informasi.
