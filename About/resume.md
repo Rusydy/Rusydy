@@ -13,10 +13,10 @@ I'm a versatile software engineer with experience in full-stack development, usi
 
 > Skills
 
-- Programming languages: JavaScript, TypeScript, PHP, Go, SQL, Dart, Ruby, Python, Kotlin
-- Programming frameworks: Laravel, Echo, Flutter, Ruby on Rails, Nest.js, Vue.js, Nuxt.js, Jetpack Compose
+- Programming languages: JavaScript, TypeScript, PHP, Go, SQL, Dart, Kotlin, Python, Ruby
+- Programming frameworks: Laravel, Echo, Flutter, Kotlin Multiplatform, Jetpack Compose
 - Development tools: Git, Docker, Linux, draw.io, Mermaid.js, Diagrams
-- Databases: PostgreSQL, Redis, MongoDB, MySQL, SQL Server
+- Databases: PostgreSQL, Redis, MongoDB
 - Testing: Postman, Go-Mock, SQL-Mock, Go-Test, Selenium, Apache JMeter
 
 > Education
