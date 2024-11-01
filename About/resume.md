@@ -41,6 +41,8 @@ I'm a versatile software engineer with experience in full-stack development, usi
   - Created system architecture and database design for new services using diagrams written in python and mermaid.js for PT. Hino Motors Sales Indonesia (HMSI)
   - Contributor to [scrcpy-plus](https://github.com/Frontesque/scrcpy-plus), an open-source project for remotely controlling Android devices
   - Created a Task Management System using Laravel and Vue.js for admin site and Kotlin and Jetpack Compose for user mobile app
+  - Created platform api and backoffice web using Laravel and Vue.js for Bimbel Strategis
+  - Created the mobile app for field engineers using Kotlin and Jetpack Compose for PT. Tower Bersama Infrastructure Tbk and PT Ciptajaya Sejahtera Abadi
 
 - **Software Engineer** | 04/2022 - 06/2024 | **[PT Sejahtera Lunaria Annua - Koinworks](https://koinworks.com/)** | South Jakarta, Greater Jakarta
   - Trained new employees on Koinworks' architecture, wiki, technical documentation, and in-house developed frameworks.
