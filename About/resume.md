@@ -14,7 +14,7 @@ I'm a versatile software engineer with experience in full-stack development, usi
 > Skills
 
 - Programming languages: JavaScript, TypeScript, PHP, Go, SQL, Dart, Kotlin, Python, Ruby
-- Programming frameworks: Laravel, Echo, Flutter, Kotlin Multiplatform, Jetpack Compose
+- Programming frameworks: Laravel, Echo, Flutter, Kotlin Multiplatform, Jetpack Compose, Ruby on Rails, Vue.js
 - Development tools: Git, Docker, Linux, draw.io, Mermaid.js, Diagrams
 - Databases: PostgreSQL, Redis, MongoDB
 - Testing: Postman, Go-Mock, SQL-Mock, Go-Test, Selenium, Apache JMeter
@@ -40,7 +40,7 @@ I'm a versatile software engineer with experience in full-stack development, usi
   - Created and maintained a KIOSK application using Kotlin for DPR RI (House of Representatives of the Indonesian Republic).
   - Created system architecture and database design for new services using diagrams written in python and mermaid.js for PT. Hino Motors Sales Indonesia (HMSI)
   - Contributor to [scrcpy-plus](https://github.com/Frontesque/scrcpy-plus), an open-source project for remotely controlling Android devices
-  - Created a Task Management System using Laravel and Vue.js for admin site and Kotlin and Jetpack Compose for user mobile app
+  - Created a Task Management System using Laravel and Vue.js for admin site for PT. Tower Bersama Infrastructure Tbk and PT Ciptajaya Sejahtera Abadi
   - Created platform api and backoffice web using Laravel and Vue.js for Bimbel Strategis
   - Created the mobile app for field engineers using Kotlin and Jetpack Compose for PT. Tower Bersama Infrastructure Tbk and PT Ciptajaya Sejahtera Abadi
 
